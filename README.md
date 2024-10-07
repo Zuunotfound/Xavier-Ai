@@ -36,7 +36,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
+[![Run on Repl.it](https://repl.it/badge/github/ZUUNOTFOUND/Xavier-Ai)](https://repl.it/github/ZUUNOTFOUND/Xavier-Ai)
 
 ---------
 ## FOR WINDOWS/RDP USER 💻
@@ -62,8 +62,8 @@ Install this tool first before running the script
 ----------
 
 ```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/ZUUNOTFOUND/Xavier-Ai
+cd Xavier-Ai
 npm install
 npm update
 ```
