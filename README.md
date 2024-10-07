@@ -14,7 +14,7 @@
  <a href="#"><img title="XavierBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ZUUNOTFOUND"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xavier-Ai-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ZUUNOTFOUND"><img title="Author" src="https://img.shields.io/badge/AUTHOR%20xavier%20Ai%20-green%20svg%20for%20the%20badge%26logo%20github"></a>
 
 ---------
 
